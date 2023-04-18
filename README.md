@@ -19,5 +19,7 @@ THEN they fall in sequential order
 WHEN i view the title element
 THEN I find a concise, descriptive title
 
-I achieved this by removing non semantic elements and changing them to semantic elemets in both HTML and CSS
-I also deleted the duplicates in CSS and merged them into one in order to have the page meet the criteria given.
+I achieved this by 
+-removing non semantic elements 
+-changing them to semantic elemets in both HTML and CSS 
+- deletong the duplicates in CSS and then merged them into one in order to have the page meet the criteria given.
